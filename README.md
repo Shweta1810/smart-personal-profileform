@@ -1,5 +1,4 @@
-# smart-personal-profileform
-A HTML project  that allow users to fill their personal details and see a live preview accordingly
+
 # Smart Personal Profile Form
 
 A responsive web-based form built using **HTML, CSS, and JavaScript**.  
